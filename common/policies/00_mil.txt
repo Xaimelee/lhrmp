@@ -773,9 +773,8 @@ the_preparation_act = {
 		full_idea_group = defensive_ideas
 	}	
 	
-	#land_attrition = -0.25
-	#war_exhaustion = -0.05
-	shock_damage_received = -0.1
+	land_attrition = -0.25
+	war_exhaustion = -0.05
 	
 	effect = {}
 	removed_effect = {}
