@@ -1430,6 +1430,7 @@ expansion_ideas = {
 	important = yes
 
 	bonus = {
+		cb_on_overseas = yes
  		min_autonomy_in_territories = -0.1
 	}
 
