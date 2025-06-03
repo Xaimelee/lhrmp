@@ -1606,7 +1606,7 @@ humanist_ideas = {
 		tolerance_of_heretics_capacity = 1
 	}
 	cultural_ties = {
-		num_accepted_cultures = 2
+		num_accepted_cultures = 3 #2
 		manpower_in_accepted_culture_provinces = 0.15
 	}
 	humanist_tolerance = {
@@ -1614,13 +1614,14 @@ humanist_ideas = {
 		tolerance_of_heathens_capacity = 1
 		#religious_unity = 0.2
 	}
-	benevolence = {
-		improve_relation_modifier = 0.3
-	}
 	tolerance_idea = {
 		religious_unity = 0.2
 		#tolerance_of_heretics_capacity = 1
 		#tolerance_of_heathens_capacity = 1
+	}
+	benevolence = {
+		#improve_relation_modifier = 0.3
+		possible_policy = 1
 	}
 
 	ai_will_do = {
