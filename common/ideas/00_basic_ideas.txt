@@ -1605,7 +1605,7 @@ humanist_ideas = {
 		tolerance_of_heretics_capacity = 1
 	}
 	cultural_ties = {
-		num_accepted_cultures = 3 #2
+		num_accepted_cultures = 2
 		manpower_in_accepted_culture_provinces = 0.15
 	}
 	humanist_tolerance = {
