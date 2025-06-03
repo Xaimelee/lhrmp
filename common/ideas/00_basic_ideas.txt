@@ -100,9 +100,13 @@ plutocracy_ideas = {
 		has_government_attribute = enables_plutocratic_idea_group
 	}
 
-	tradition_of_payment = {
-		mercenary_cost = -0.2
-		global_regiment_cost = -0.05
+	# tradition_of_payment = {
+	# 	mercenary_cost = -0.2
+	# 	global_regiment_cost = -0.05
+	# }
+	
+	emancipation = {
+		manpower_recovery_speed = 0.2
 	}
 	abolished_serfdom = {
 		land_morale = 0.10
@@ -121,9 +125,12 @@ plutocracy_ideas = {
 		caravan_power = 0.25
 		development_cost = -0.05
 	}
-	emancipation = {
-		manpower_recovery_speed = 0.2
+	volley_fire = {
+		fire_damage = 0.1
 	}
+	# emancipation = {
+	# 	manpower_recovery_speed = 0.2
+	# }
 
 	ai_will_do = {
 		factor = 3.75
