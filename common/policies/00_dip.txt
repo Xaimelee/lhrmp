@@ -1911,6 +1911,7 @@ diplomatic_arms_act = {
 	}
 	
 	diplomatic_upkeep = 2
+	ae_impact = -0.1
 	
 	effect = {}
 	removed_effect = {}
