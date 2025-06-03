@@ -1718,7 +1718,8 @@ special_forces_act = {
 	}
 	
 	special_unit_forcelimit = 0.1
-	yearly_army_professionalism = 0.002
+	special_unit_cost_modifier = -0.1
+	yearly_army_professionalism = 0.0025
 
 	effect = {}
 	removed_effect = {}
