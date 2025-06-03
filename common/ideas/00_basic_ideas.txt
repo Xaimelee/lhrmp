@@ -1518,19 +1518,20 @@ administrative_ideas = {
 		eunuchs_loyalty_modifier = 0.1
 	}
 
-	administrative_council = {
-		adm_advisor_cost = -0.25 
-	}
 	local_rule = {
 		advisor_pool = 1
 		overextension_impact_modifier = -0.1
 		num_of_pronoiars = 1
+	}
+	administrative_council = {
+		adm_advisor_cost = -0.25 
 	}
 	adaptability = {
 		core_creation = -0.25
 	}
 	cultural_regulations = {
 		promote_culture_cost = -0.3
+		num_accepted_cultures = 1
 	}
 	stable_government = {
 		stability_cost_modifier = -0.25 
