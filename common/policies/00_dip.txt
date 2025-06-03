@@ -1912,8 +1912,8 @@ diplomatic_arms_act = {
 		full_idea_group = diplomatic_ideas 
 	}
 	
+	province_warscore_cost = -0.1
 	diplomatic_upkeep = 2
-	ae_impact = -0.1
 	
 	effect = {}
 	removed_effect = {}
