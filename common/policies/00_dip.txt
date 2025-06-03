@@ -705,7 +705,7 @@ professional_diplomatic_corps = {
 	}
 	
 	ae_impact = -0.15
-	war_exhaustion = -0.05
+	war_exhaustion = -0.03
 
 	effect = {}
 	removed_effect = {}
