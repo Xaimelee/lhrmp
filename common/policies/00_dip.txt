@@ -1745,7 +1745,7 @@ the_smooth_integration_act = {
 	
 	diplomatic_reputation = 1 
 	global_autonomy = -0.05
-	#years_to_integrate_personal_union = -10
+	years_to_integrate_personal_union = -10
 
 	effect = {}
 	removed_effect = {}
