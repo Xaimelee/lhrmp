@@ -262,7 +262,8 @@ edict_of_resistance = {
 
 
 	global_unrest = -1
-	hostile_attrition = 1
+	max_hostile_attrition = 1
+	#hostile_attrition = 1
 
 	effect = {}
 	removed_effect = {}
