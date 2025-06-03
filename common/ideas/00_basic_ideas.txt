@@ -1791,6 +1791,7 @@ court_ideas = {
 
 
 	bonus = {
+		yearly_absolutism = 0.5
 		legitimacy = 0.5 
 		republican_tradition = 0.2
 		devotion = 0.5 
@@ -1807,15 +1808,15 @@ court_ideas = {
 	}
 	recognize_hierarchy = {
 		all_estate_loyalty_equilibrium = 0.1
+		loyalty_change_on_revoked = 0.05
 		allow_free_estate_privilege_revocation = yes
-		#loyalty_change_on_revoked = 0.05
 	}
 	welcoming_ceremonies = {
 		prestige = 1 
 		monthly_persian_influence = 0.1
 	}
 	tranquil_coordination = {
-		reform_progress_growth = 0.2
+		reform_progress_growth = 0.25 #0.2
 	}
 	respected_authority = {
 		all_estate_possible_privileges = 1
@@ -1826,8 +1827,8 @@ court_ideas = {
 		estate_interaction_cooldown_modifier = -0.20
 	}
 	court_embassies = {
-		advisor_cost = -0.15
 		#possible_dip_policy = 1 
+		monarch_lifespan = 0.05
 		monarch_diplomatic_power = 1 
 	}
 
