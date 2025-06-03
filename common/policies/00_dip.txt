@@ -1254,7 +1254,7 @@ diplomatic_defence_act = {
 	}
 
 	#diplomats = 1
-	defensiveness = 0.1
+	dip_advisor_cost = -0.15
 	improve_relation_modifier = 0.2
 	
 	effect = {}
