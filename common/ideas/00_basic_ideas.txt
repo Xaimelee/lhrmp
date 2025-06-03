@@ -397,6 +397,9 @@ religious_ideas = {
 		church_loyalty_modifier = 0.1
 	}
 
+	deus_vult = {
+		cb_on_religious_enemies = yes
+	}
 	missionary_schools = {
 		missionaries = 1
 		missionary_maintenance_cost = -0.5
@@ -423,10 +426,8 @@ religious_ideas = {
 		prestige_per_development_from_conversion = 0.1
 	}
 	religious_tradition = {
+		manpower_in_own_culture_provinces = 0.1
 		reverse_relation_with_same_religion = 10
-	}
-	deus_vult = {
-		cb_on_religious_enemies = yes
 	}
 
 	ai_will_do = {
