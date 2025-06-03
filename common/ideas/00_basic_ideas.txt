@@ -1901,7 +1901,7 @@ infrastructure_ideas = {
 
 	state_efficiency = {
 		global_prosperity_growth = 0.25
-		state_maintenance_modifier = -0.33
+		state_maintenance_modifier = -0.25 #-0.33
 	}
 	organised_construction = {
 		build_cost = -0.1 
