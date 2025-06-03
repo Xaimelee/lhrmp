@@ -199,7 +199,8 @@ theocracy_gov_ideas = {
 	category = MIL
 	
 	bonus = {
-		global_heretic_missionary_strength = 0.01
+		#global_heretic_missionary_strength = 0.01
+		warscore_from_battles_modifier = 0.1
 		church_loyalty_modifier = 0.1
 		brahmins_hindu_loyalty_modifier = 0.1
 		brahmins_muslim_loyalty_modifier = 0.1
@@ -225,7 +226,8 @@ theocracy_gov_ideas = {
 	}
 	alpha_and_omega = {
 		enforce_religion_cost = -0.3
-		culture_conversion_cost = -0.1
+		warscore_cost_vs_other_religion = -0.15
+		#culture_conversion_cost = -0.1
 	}
 	conviction_of_sin = {
 		global_unrest = -2
