@@ -1703,14 +1703,15 @@ naval_ideas = {
 		landing_penalty = -1
 	}
 	improved_rams = {
-		galley_power = 0.25
+		galley_power = 0.2 #0.25
 	}
 	naval_cadets = {
 		leader_naval_fire = 1
-		sunk_ship_morale_hit_recieved = -0.33
+		sunk_ship_morale_hit_recieved = -0.20 #-0.33
 	}
 	naval_glory = {
-		navy_tradition = 1
+		#navy_tradition = 1
+		naval_tradition_from_battle = 1.0
 		siege_blockade_progress = 1
 	}
 	press_gangs = {
@@ -1718,12 +1719,12 @@ naval_ideas = {
 		allowed_marine_fraction = 0.25
 	}
 	oak_forests_for_ships = {
-		heavy_ship_power = 0.20
-		ship_durability = 0.1
+		heavy_ship_power = 0.10 #0.20
+		ship_durability = 0.05 #0.1
 	}
 	superior_seamanship = {
 		naval_morale = 0.1
-		global_naval_engagement_modifier = 0.1
+		#global_naval_engagement_modifier = 0.1
 	}
 
 	ai_will_do = {
