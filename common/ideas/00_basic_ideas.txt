@@ -1512,7 +1512,8 @@ administrative_ideas = {
 	category = ADM
 
 	bonus = {
-		governing_capacity_modifier = 0.2
+		#governing_capacity_modifier = 0.2
+		global_allowed_num_of_buildings = 1
 		eunuchs_loyalty_modifier = 0.1
 	}
 
@@ -1521,6 +1522,7 @@ administrative_ideas = {
 	}
 	local_rule = {
 		advisor_pool = 1
+		overextension_impact_modifier = -0.1
 		num_of_pronoiars = 1
 	}
 	adaptability = {
@@ -1534,6 +1536,7 @@ administrative_ideas = {
 	}
 	centralization = {
 		global_autonomy = -0.05
+		governing_capacity_modifier = 0.2
 	}
 	civil_servants = {
 		adm_tech_cost_modifier = -0.1
