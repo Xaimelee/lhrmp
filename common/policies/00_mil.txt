@@ -718,7 +718,8 @@ inspirational_leaders = {
 		full_idea_group = quantity_ideas
 	}	
 	
-	leader_land_shock = 1
+	#leader_land_shock = 1
+	morale_damage_received = -0.1
 	
 	effect = {}
 	removed_effect = {}
