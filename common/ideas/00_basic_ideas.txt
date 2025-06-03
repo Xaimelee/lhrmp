@@ -542,7 +542,6 @@ diplomatic_ideas = {
 	
 	grand_banquets = {
 		diplomats = 1
-		monthly_splendor = 2
 	}
 	foreign_embassies = {
 		dip_advisor_cost = -0.25
