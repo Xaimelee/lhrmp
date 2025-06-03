@@ -447,12 +447,14 @@ vassal_taxation_policy = {
 
 	potential = {
 		has_idea_group = offensive_ideas
-		has_idea_group = administrative_ideas
+		has_idea_group = influence_ideas
+		#has_idea_group = administrative_ideas
 	}
 	
 	allow = {
 		full_idea_group = offensive_ideas
-		full_idea_group = administrative_ideas
+		full_idea_group = influence_ideas
+		#full_idea_group = administrative_ideas
 	}
 
 	vassal_income = 0.2
