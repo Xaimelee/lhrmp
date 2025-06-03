@@ -1,0 +1,5 @@
+--NDefines.NCategory.Define = x
+NDefines.NDiplomacy.MIN_RELATIONS_TO_ALLY = -200
+NDefines.NDiplomacy.MONTHS_BEFORE_TOTAL_OCCUPATION = 12
+NDefines.NMilitary.DELIBERATE_RETREAT_MORALE_PENALTY = 0
+NDefines.NCountry.PS_REPLACE_RIVAL = 50
