@@ -534,7 +534,7 @@ the_tenures_abolition_act = {
 	}
 
 	army_tradition = 1 #0.5
-	diplomats = 1
+	#diplomats = 1
 	
 	effect = {}
 	removed_effect = {}
