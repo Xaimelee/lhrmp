@@ -796,7 +796,7 @@ local_militias = {
 		full_idea_group = defensive_ideas
 	}	
 	
-	war_exhaustion = -0.03
+	war_exhaustion = -0.05 #-0.03
 	garrison_damage = 0.5
 	
 	effect = {}
