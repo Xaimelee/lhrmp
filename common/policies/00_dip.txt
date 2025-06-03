@@ -704,7 +704,7 @@ professional_diplomatic_corps = {
 		full_idea_group = quality_ideas
 	}
 	
-	diplomatic_reputation = 1
+	ae_impact = -0.15
 	war_exhaustion = -0.05
 
 	effect = {}
