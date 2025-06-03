@@ -1051,8 +1051,10 @@ the_cooperation_act = {
 		full_idea_group = influence_ideas
 	}	
 	
-	caravan_power = 0.33
-	merchants = 1
+	#caravan_power = 0.33
+	#merchants = 1
+	vassal_naval_forcelimit_bonus = 0.5
+	vassal_sailors_bonus = 0.25
 	
 	effect = {}
 	removed_effect = {}
