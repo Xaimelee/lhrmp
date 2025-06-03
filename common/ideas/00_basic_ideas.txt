@@ -1662,6 +1662,7 @@ influence_ideas = {
 	
 	additional_loyalist_recruitment = {
 		reduced_liberty_desire = 15
+		vassal_manpower_bonus = 0.2
 		vassal_naval_forcelimit_bonus = 0.1
 	}
 	
@@ -1670,6 +1671,7 @@ influence_ideas = {
 	}
 	buffer_states = {
 		diplomatic_upkeep = 1
+		can_fabricate_for_vassals = yes
 	}
 	diplomatic_influence = {
 		diplomatic_reputation = 2
