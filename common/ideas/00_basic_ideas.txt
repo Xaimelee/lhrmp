@@ -1531,7 +1531,6 @@ administrative_ideas = {
 	}
 	cultural_regulations = {
 		promote_culture_cost = -0.3
-		num_accepted_cultures = 1
 	}
 	stable_government = {
 		stability_cost_modifier = -0.25 
