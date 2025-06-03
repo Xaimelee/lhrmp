@@ -1158,7 +1158,8 @@ maritime_ideas = {
 	}
 
 	bonus = {
-		sea_repair = yes
+		#sea_repair = yes
+		transport_attrition = -0.25
 		movement_speed_in_fleet_modifier = 1 
 	}
 
@@ -1171,7 +1172,7 @@ maritime_ideas = {
 		allowed_marine_fraction = 0.25
 	}
 	sheltered_ports = {
-		global_ship_repair = 0.1
+		global_ship_repair = 0.2 #0.1
 		sailor_maintenance_modifer = -0.1
 	}
 	grand_navy = {
