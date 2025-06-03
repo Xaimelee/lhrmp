@@ -1588,7 +1588,7 @@ humanist_ideas = {
 	category = ADM
 
 	bonus = {
-		idea_cost = -0.1
+		possible_policy = 1
 		yearly_harmony = 0.25  # Used if religion uses harmony (confucianism)
 		brahmins_muslim_loyalty_modifier = 0.1
 		dhimmi_loyalty_modifier = 0.1
@@ -1621,7 +1621,7 @@ humanist_ideas = {
 	}
 	benevolence = {
 		#improve_relation_modifier = 0.3
-		possible_policy = 1
+		idea_cost = -0.1
 	}
 
 	ai_will_do = {

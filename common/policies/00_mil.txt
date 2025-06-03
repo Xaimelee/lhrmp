@@ -481,7 +481,8 @@ underhanded_diplomacy_act = {
 	}
 	
 	spy_offence = 0.33
-	diplomatic_reputation = 1
+	siege_ability = 0.15
+	#diplomatic_reputation = 1
 
 	effect = {}
 	removed_effect = {}
