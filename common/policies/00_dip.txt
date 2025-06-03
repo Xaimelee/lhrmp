@@ -814,7 +814,8 @@ multilingual_diplomats = {
 	}	
 	
 	num_accepted_cultures = 1
-	improve_relation_modifier = 0.2
+	manpower_in_accepted_culture_provinces = 0.1
+	#improve_relation_modifier = 0.2
 	
 	effect = {}
 	removed_effect = {}
