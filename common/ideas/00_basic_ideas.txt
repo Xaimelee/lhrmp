@@ -991,6 +991,7 @@ exploration_ideas = {
 	}
 	land_of_opportunity = {
 		global_colonial_growth = 10
+		colony_cost_modifier = -0.2
 	}
 	vice_roys = {
 		global_tariffs = 0.10
