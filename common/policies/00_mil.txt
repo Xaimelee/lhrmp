@@ -529,7 +529,7 @@ the_tenures_abolition_act = {
 		full_idea_group = aristocracy_ideas
 	}
 
-	army_tradition = 0.5
+	army_tradition = 1 #0.5
 	diplomats = 1
 	
 	effect = {}
