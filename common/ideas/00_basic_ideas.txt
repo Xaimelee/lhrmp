@@ -508,8 +508,10 @@ spy_ideas = {
 	}
 	
 	blackmailing = {
-		monthly_favor_modifier = 0.33
-		accept_vassalization_reasons = 15
+		global_rebel_suppression_efficiency = 0.33
+		harsh_treatment_cost = -0.25
+		#monthly_favor_modifier = 0.33
+		#accept_vassalization_reasons = 15
 		num_of_pronoiars = 1
 	}
 
