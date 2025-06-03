@@ -234,7 +234,7 @@ theocracy_gov_ideas = {
 	alpha_and_omega = {
 		enforce_religion_cost = -0.3
 		warscore_cost_vs_other_religion = -0.15
-		#culture_conversion_cost = -0.1
+		culture_conversion_cost = -0.1
 	}
 	conviction_of_sin = {
 		global_unrest = -2
