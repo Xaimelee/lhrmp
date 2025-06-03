@@ -1083,7 +1083,7 @@ record_keeping_act = {
 		full_idea_group = diplomatic_ideas
 	}
 
-	#diplomats = 1
+	diplomats = 1
 	#global_autonomy = -0.05
 	all_power_cost = -0.025
 
