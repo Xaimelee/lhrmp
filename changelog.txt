@@ -1,0 +1,125 @@
+LHRMP v1
+
+Defines:
+
+- Minimum relations to ally is now -200 instead of -25.
+- Months before total occupation is now 12 instead of 60.
+- Cost to replace a rival is now 50 instead of 100.
+
+Religions:
+
+- All religions can now declare war while having a regency.
+
+Estates:
+
+- You can now seize land while at war.
+
+Ideagroups:
+
+Aristocratic: (buffed)
+- Global Autonomy reduction increased from -0.025 to -0.05.
+
+Naval: (nerfed)
+- Galley Combat Ability decreased from 25% to 20%.
+- Morale Hit Received when Ship Sunk decreased from -33% to -20%.
+- Added +100% Naval Tradition from Battles.
+- Removed +1 Navy Tradition.
+- Heavy Combat Ability decreased from 20% to 10%.
+- Ship Durability decreased from 10% to 5%.
+- Removed +10% Global Naval Engagement.
+
+Mercenary: (nerfed, shouldn't be banned anymore)
+- Added +15% Available Province Loot.
+- Removed +10% Infantry Combat Ability.
+- Mercenary Manpower decreased from +30% to +20%.
+
+Divine: (buffed)
+- Added +10% Warscore from Battles.
+- Added +15% Warcore Cost Reduction vs Other Religions.
+- Removed +1% Global Heretic Missionary Strength.
+
+Plutocratic: (buffed)
+- Added +10% Fire Damage.
+- Removed -20% Mercenary Cost.
+- Removed -5% Regiment Cost.
+
+Espionage: (neutral)
+- Added +33% Rebel Supression Efficiency.
+- Added -25% Harsh Treatment Cost.
+- Removed +33% Monthly Favours.
+- Removed +15 Accept Vassalization Reasons.
+
+Diplomatic: (buffed)
+- Added +1 Possible Dip Policy.
+- Added -25% Unjustified Demands Cost.
+- Added +15 Accept Vassalization Reasons.
+
+Exploration: (buffed)
+- Added +10% Global Tariffs.
+- Added -20% Envoy Travel Time.
+- Removed -10% Trade Company Gov Cost.
+- Removed -10% Trade Company Investment Cost.
+- Added: -20% Colony Maintenance Cost.
+
+Maritime: (nerfed)
+- Global Ship Repair Speed increased from 10% to 20%.
+- Removed Free Repair at Sea.
+- Added -25% Attrition for Embarked Units.
+
+Influence: (buffed)
+- Added +20% MP from Vassals.
+- Added Can Fabricate Claims for Vassals.
+
+Court: (buffed)
+- Added +0.5 Yearly Absolutism.
+- Added Allow Free Estate Privilege Revocation.
+- Added +10% Max Absolutism Effect.
+- Added +5% Monarch Lifespan.
+- Removed +1 Possible Dip Policy.
+- Reform Growth increased from +20% to +25%.
+
+Religious: (buffed)
+- Added +10% MP from Primary Culture.
+
+Administrative: (buffed)
+- Added +1 Global Building Slot.
+- Added -10% Overextension Impact.
+
+Expansion: (buffed)
+- Added Creating Claims in Trade Company Regions.
+
+Humanist: (buffed)
+- Added +1 Possible Policy.
+- Added +15% MP from Accepted Cultures.
+- Removed +30% Improve Relations.
+
+Infrastructure: (nerfed)
+- State Maintenance Cost decreased from -33% to -25%.
+
+Policies: 
+
+- Aristocratic and Diplomatic is now +1 Army Tradition. (buffed)
+- Aristocratic and Maritime is now -1% Army and Navy Tradition Decay. (buffed)
+- Offensive and Administrative + Offensive and Influence were swapped.
+- Offensive and Administrative is now -25% Reinforce Cost and -10% Recruit Speed. (buffed)
+- Defensive and Influence is now 50% Garrison Damage and -0.05 War Exhaustioin. (buffed)
+- Defensive and Religious is now -1 Global Unrest and +1 Max Attrition. (buffed)
+- Defensive and Administrative is now +10% Fort Defense and -25% Harsh Treatment Cost. (buffed)
+- Quality and Economic is now +5% Fire Damage and +5% Shock Damage. (nerfed)
+- Quality and Court is now +10% Special Unit FL, -10% Special Unit Cost and +.25 Yearly AP. (buffed)
+- Quantity and Espionage + Espionage and Mercenary were swapped.
+- Quantity and Diplomatic is now -25% Unjustified Demands Cost and +15% Land Forcelimit. (buffed)
+- Quantity and Humanist is now +1 Leader Shock and -5% Morale Damage Received. (buffed)
+- Offensive and Diplomatic is now +33% Spy Network and +15% Siege Ability. (buffed)
+- Quality and Diplomatic is now -15% AE Impact and -0.03 War Exhaustion. (buffed)
+- Humanist and Diplomatic is now +1 Max Accepted Cultures and +10% MP from Accepted Cultures. (buffed)
+- Administrative and Diplomatic is now +1 Diplomat and -2.5% Power Cost. (buffed)
+- Diplomatic and Defensive is now -15% Dip Advisor Cost and +20% Improve Relations. (buffed)
+- Diplomatic and Infrastructure is now +1 Diplomatic Reputation, -0.05 Global Autonomy and -10 Years to Integrate Union. (buffed)
+- Diplomatic and Mercenary is now +2 Relations and -10% Province Warscore Cost. (buffed)
+- Plutocratic and Influence is now +100% Vassal Land Forcelimit and +10% Vassal MP. (buffed)
+- Naval and Influence is now +50% Vassal Navy Forcelimit and +25% Vassal Sailors. (neutral)
+- Court and Religious is now -5% Warscore Cost vs Other Religions and -10% Advisot Cost of same Religion. (buffed)
+- Expansion and Influence is now -15 Liberty Desire and +25% Vassal Land Forcelimit. (buffed)
+- Defensive and Espionage is now +20% Fort Defensve and -0.2 Corruption.
+
