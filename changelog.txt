@@ -87,6 +87,8 @@ Administrative: (buffed)
 
 Expansion: (buffed)
 - Added Creating Claims in Trade Company Regions.
+- Removed +10% Global Tariffs.
+- Removed -20% Envoy Travel Time.
 
 Humanist: (buffed)
 - Added +1 Possible Policy.
