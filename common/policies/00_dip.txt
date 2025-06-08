@@ -1249,19 +1249,21 @@ black_chamber_act = {
 diplomatic_defence_act = {
 	monarch_power = DIP
 	potential = {
-		has_idea_group = diplomatic_ideas
-		has_idea_group = defensive_ideas
+		#has_idea_group = diplomatic_ideas
+		#has_idea_group = defensive_ideas
+		has_idea_group = indigenous_ideas
+		has_idea_group = exploration_ideas
 	}
 	
 	allow = {
-		full_idea_group = diplomatic_ideas
-		full_idea_group = defensive_ideas
+		#full_idea_group = diplomatic_ideas
+		#full_idea_group = defensive_ideas
+		full_idea_group = indigenous_ideas
+		full_idea_group = exploration_ideas
 	}
 
-	#diplomats = 1
-	dip_advisor_cost = -0.15
-	ae_impact = -0.1
-	#improve_relation_modifier = 0.2
+	diplomats = 1
+	improve_relation_modifier = 0.2
 	
 	effect = {}
 	removed_effect = {}
