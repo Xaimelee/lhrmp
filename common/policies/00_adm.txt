@@ -658,7 +658,7 @@ the_education_act = {
 }
 
 
-policy_of_calculate_delay = {
+anti_heresy_act = {
 	monarch_power = ADM
 	potential = {
 		has_idea_group = religious_ideas
@@ -1581,7 +1581,7 @@ church_sponsored_guilds = {
 	}
 }
 
-anti_heresy_act = {
+policy_of_calculate_delay = {
 	monarch_power = ADM
 	
 	potential = {
