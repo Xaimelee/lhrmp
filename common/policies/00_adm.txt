@@ -2154,9 +2154,8 @@ zealous_court_act = {
 	}
 	
 	#warscore_cost_vs_other_religion = -0.05
-	same_culture_advisor_cost = -0.1
 	same_religion_advisor_cost = -0.1
-	#tolerance_own = 1 
+	tolerance_own = 1 
 
 	effect = {}
 	removed_effect = {}
