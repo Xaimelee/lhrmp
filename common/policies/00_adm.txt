@@ -262,10 +262,8 @@ edict_of_resistance = {
 		#full_idea_group = religious_ideas
 	}
 
-
 	global_unrest = -1
-	max_hostile_attrition = 1
-	#hostile_attrition = 1
+	hostile_attrition = 1
 
 	effect = {}
 	removed_effect = {}
