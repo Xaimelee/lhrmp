@@ -1128,7 +1128,7 @@ deserteur_act = {
 		full_idea_group = quality_ideas
 	}
 
-	army_tradition_decay = -0.005
+	army_tradition_decay = -0.01 #-0.005
 	reinforce_speed = 0.15
 	
 	effect = {}
