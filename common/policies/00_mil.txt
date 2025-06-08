@@ -365,7 +365,7 @@ military_zeal_act = {
 		full_idea_group = religious_ideas
 	}
 	
-	morale_damage = 0.1 #0.05
+	morale_damage = 0.05
 	siege_ability = 0.1
 
 	effect = {}
