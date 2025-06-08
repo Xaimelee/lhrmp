@@ -1011,7 +1011,8 @@ the_integrated_administration_act = {
 	}	
 	
 	vassal_income = 0.25
-	diplomatic_annexation_cost = -0.1
+	diplomatic_upkeep = 1
+	#diplomatic_annexation_cost = -0.1
 	
 	effect = {}
 	removed_effect = {}
