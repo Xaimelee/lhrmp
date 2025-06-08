@@ -1822,8 +1822,9 @@ hired_expeditions_act = {
 		full_idea_group = court_ideas
 	}
 	
-	force_march_free = yes 
-	recover_army_morale_speed = 0.15
+	#force_march_free = yes 
+	#recover_army_morale_speed = 0.15
+	infantry_power = 0.1
 
 	effect = {}
 	removed_effect = {}
