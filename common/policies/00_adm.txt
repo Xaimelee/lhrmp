@@ -895,7 +895,7 @@ overseas_dominions = {
 	}	
 	
 	reduced_liberty_desire = 15
-	global_tariffs = 0.1
+	trade_efficiency = 0.1
 	
 	effect = {}
 	removed_effect = {}
