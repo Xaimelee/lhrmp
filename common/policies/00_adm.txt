@@ -2060,6 +2060,7 @@ plutocratic_rule_act = {
 	}
 	
 	global_prov_trade_power_modifier = 0.25
+	republican_tradition = 0.2
 
 	effect = {}
 	removed_effect = {}
