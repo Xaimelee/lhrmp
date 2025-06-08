@@ -711,12 +711,14 @@ inspirational_leaders = {
 	
 	potential = {
 		has_idea_group = humanist_ideas
-		has_idea_group = quantity_ideas
+		#has_idea_group = quantity_ideas
+		has_idea_group = defensive_ideas
 	}
 	
 	allow = {
 		full_idea_group = humanist_ideas
-		full_idea_group = quantity_ideas
+		#full_idea_group = quantity_ideas
+		full_idea_group = defensive_ideas
 	}	
 	
 	leader_land_shock = 1
@@ -765,12 +767,14 @@ the_preparation_act = {
 	
 	potential = {
 		has_idea_group = humanist_ideas
-		has_idea_group = defensive_ideas
+		#has_idea_group = defensive_ideas
+		has_idea_group = quantity_ideas
 	}
 	
 	allow = {
 		full_idea_group = humanist_ideas
-		full_idea_group = defensive_ideas
+		#full_idea_group = defensive_ideas
+		full_idea_group = quantity_ideas
 	}	
 	
 	land_attrition = -0.25
