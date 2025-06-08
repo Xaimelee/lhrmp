@@ -414,8 +414,10 @@ the_tolerance_act = {
 		full_idea_group = plutocracy_ideas
 	}
 
-	tolerance_heretic = 2
-	rival_border_fort_maintenance = -0.5
+	#tolerance_heretic = 2
+	#rival_border_fort_maintenance = -0.5
+	religious_unity = 0.25
+	global_unrest = 1
 
 	effect = {}
 	removed_effect = {}
