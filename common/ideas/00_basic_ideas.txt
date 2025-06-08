@@ -1888,7 +1888,7 @@ mercenary_ideas = {
 	}
 	organised_mercenary_recruitment = { 
 		mercenary_manpower = 0.2 #0.3
-		allow_mercenary_drill = yes
+		#allow_mercenary_drill = yes
 	}
 
 	ai_will_do = {
