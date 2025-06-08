@@ -13,7 +13,7 @@ innovative_payment_techniques_act = {
 		full_idea_group = mercenary_ideas 
 	}
 	
-	mercenary_cost = -0.33
+	mercenary_cost = -0.25 #-0.33
 
 	effect = {}
 	removed_effect = {}
