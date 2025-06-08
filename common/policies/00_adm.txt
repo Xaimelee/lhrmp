@@ -252,12 +252,14 @@ edict_of_resistance = {
 
 	potential = {
 		has_idea_group = defensive_ideas
-		has_idea_group = religious_ideas
+		#has_idea_group = religious_ideas
+		has_idea_group = economic_ideas
 	}
 	
 	allow = {
 		full_idea_group = defensive_ideas
-		full_idea_group = religious_ideas
+		full_idea_group = economic_ideas
+		#full_idea_group = religious_ideas
 	}
 
 
@@ -296,12 +298,14 @@ public_welfare_act = {
 
 	potential = {
 		has_idea_group = defensive_ideas
-		has_idea_group = economic_ideas
+		#has_idea_group = economic_ideas
+		has_idea_group = religious_ideas
 	}
 	
 	allow = {
 		full_idea_group = defensive_ideas
-		full_idea_group = economic_ideas
+		#full_idea_group = economic_ideas
+		has_idea_group = religious_ideas
 	}
 	
 	development_cost_in_primary_culture = -0.1
