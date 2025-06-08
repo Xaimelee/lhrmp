@@ -282,8 +282,9 @@ superior_fortification_act = {
 		full_idea_group = defensive_ideas
 	}
 	
-	defensiveness = 0.1
-	fort_maintenance_modifier = -0.33
+	#defensiveness = 0.1
+	fort_maintenance_modifier = -0.15 #-0.33
+	fire_damage_received = -0.1
 
 
 	effect = {}
