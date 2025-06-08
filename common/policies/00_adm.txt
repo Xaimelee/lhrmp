@@ -835,8 +835,8 @@ vassal_integration_act = {
 		full_idea_group = influence_ideas
 		full_idea_group = administrative_ideas
 	}	
-	
-	diplomatic_annexation_cost = -0.15
+
+	diplomatic_annexation_cost = -0.25
 	
 	effect = {}
 	removed_effect = {}
