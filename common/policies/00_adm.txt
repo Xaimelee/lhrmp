@@ -1596,8 +1596,8 @@ anti_heresy_act = {
 	
 	#religious_unity = 0.2
 	#global_heretic_missionary_strength = 0.03
-	warscore_cost_vs_other_religion = -0.05
-	stability_cost_to_declare_war = -1
+	warscore_cost_vs_other_religion = -0.1
+	core_creation = -0.1
 
 	effect = {}
 	removed_effect = {}
