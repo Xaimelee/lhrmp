@@ -567,12 +567,14 @@ the_witchcraft_act = {
 
 	potential = {
 		has_idea_group = religious_ideas
-		has_idea_group = aristocracy_ideas
+		#has_idea_group = aristocracy_ideas
+		has_idea_group = diplomatic_ideas
 	}
 	
 	allow = {
 		full_idea_group = religious_ideas
-		full_idea_group = aristocracy_ideas
+		#full_idea_group = aristocracy_ideas
+		full_idea_group = diplomatic_ideas
 	}
 	
 	global_unrest = -1
@@ -651,12 +653,14 @@ policy_of_calculate_delay = {
 	monarch_power = ADM
 	potential = {
 		has_idea_group = religious_ideas
-		has_idea_group = diplomatic_ideas
+		#has_idea_group = diplomatic_ideas
+		has_idea_group = aristocracy_ideas
 	}
 	
 	allow = {
 		full_idea_group = religious_ideas
-		full_idea_group = diplomatic_ideas
+		#full_idea_group = diplomatic_ideas
+		full_idea_group = aristocracy_ideas
 	}
 	
 
