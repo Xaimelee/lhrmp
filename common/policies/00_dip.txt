@@ -1634,7 +1634,8 @@ indirect_approach_policy = {
 		full_idea_group = spy_ideas
 	}
 	
-	movement_speed = 0.1
+	#movement_speed = 0.1
+	spy_offence = 0.2
 	land_attrition = -0.1
 
 	effect = {}
