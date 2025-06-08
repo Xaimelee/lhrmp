@@ -1617,7 +1617,7 @@ mercenary_tactical_movement_act = {
 	}
 	
 	mercenary_discipline = 0.025 #0.05
-	movement_speed = 0.05
+	global_regiment_recruit_speed = -0.1
 
 	effect = {}
 	removed_effect = {}
