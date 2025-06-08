@@ -485,7 +485,8 @@ underhanded_diplomacy_act = {
 		full_idea_group = offensive_ideas
 	}
 	
-	spy_offence = 0.33
+	#spy_offence = 0.33
+	assault_fort_ability = 0.33
 	siege_ability = 0.15
 	#diplomatic_reputation = 1
 
