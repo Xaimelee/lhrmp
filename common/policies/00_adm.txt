@@ -2153,7 +2153,8 @@ zealous_court_act = {
 		full_idea_group = religious_ideas 
 	}
 	
-	warscore_cost_vs_other_religion = -0.05
+	#warscore_cost_vs_other_religion = -0.05
+	same_culture_advisor_cost = -0.1
 	same_religion_advisor_cost = -0.1
 	#tolerance_own = 1 
 
