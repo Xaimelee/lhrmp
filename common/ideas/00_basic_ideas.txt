@@ -1829,6 +1829,7 @@ court_ideas = {
 		#possible_dip_policy = 1 
 		monarch_lifespan = 0.05
 		monarch_diplomatic_power = 1 
+		no_stability_loss_on_monarch_death = yes
 	}
 
 	ai_will_do = {
