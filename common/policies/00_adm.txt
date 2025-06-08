@@ -376,6 +376,7 @@ enforce_religious_law = {
 		full_idea_group = spy_ideas
 	}
 
+	prestige_per_development_from_conversion = 0.1
 	global_missionary_strength = 0.02
 	
 	effect = {}
