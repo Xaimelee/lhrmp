@@ -881,7 +881,6 @@ overseas_dominions = {
 	
 	reduced_liberty_desire = 15
 	global_tariffs = 0.1
-	#vassal_forcelimit_bonus = 0.25
 	
 	effect = {}
 	removed_effect = {}
