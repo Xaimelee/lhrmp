@@ -892,6 +892,7 @@ cultural_unity = {
 	}	
 	
 	culture_conversion_cost = -0.15
+	manpower_in_own_culture_provinces = 0.1
 	
 	effect = {}
 	removed_effect = {}
