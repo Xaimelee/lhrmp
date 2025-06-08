@@ -1337,7 +1337,7 @@ war_on_our_terms_policy = {
 	}
 
 	discipline = 0.025
-	land_morale = 0.1
+	ae_impact = -0.1
 	
 	effect = {}
 	removed_effect = {}
