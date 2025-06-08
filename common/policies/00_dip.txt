@@ -1845,7 +1845,7 @@ diplomatic_consolidation_act = {
 	#monthly_favor_modifier = 0.5
 	#can_chain_claim = yes 
 	diplomatic_upkeep = 1
-	province_warscore_cost = -0.1
+	state_governing_cost = -0.05
 
 	effect = {}
 	removed_effect = {}
