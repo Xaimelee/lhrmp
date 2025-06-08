@@ -978,12 +978,14 @@ the_liberation_act = {
 	
 	potential = {
 		has_idea_group = humanist_ideas
-		has_idea_group = offensive_ideas
+		#has_idea_group = offensive_ideas
+		has_idea_group = quantity_ideas
 	}
 	
 	allow = {
 		full_idea_group = humanist_ideas
-		full_idea_group = offensive_ideas
+		#full_idea_group = offensive_ideas
+		full_idea_group = quantity_ideas
 	}	
 	
 	global_unrest = -1
