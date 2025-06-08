@@ -183,7 +183,7 @@ public_road_act = {
 	}
 	
 	movement_speed = 0.10
-	trade_efficiency = 0.10
+	trade_efficiency = 0.15 #0.1
 
 	effect = {}
 	removed_effect = {}
