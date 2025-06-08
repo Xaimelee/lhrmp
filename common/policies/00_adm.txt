@@ -352,9 +352,8 @@ the_spy_discovery_act = {
 
 	#advisor_pool = 2
 	#harsh_treatment_cost = -0.25
-	build_cost = -0.15
-	#defensiveness = 0.1
-	#global_spy_defence = 0.5
+	defensiveness = 0.1
+	global_spy_defence = 0.5
 
 	effect = {}
 	removed_effect = {}
