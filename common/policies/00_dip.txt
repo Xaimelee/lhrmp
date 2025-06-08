@@ -1238,8 +1238,10 @@ black_chamber_act = {
 		full_idea_group = economic_ideas
 	}
 	
-	spy_offence = 0.25
-	diplomats = 1
+	#spy_offence = 0.25
+	#diplomats = 1
+	mercantilism_cost = -0.2
+	global_own_trade_power = 0.15
 
 	effect = {}
 	removed_effect = {}
