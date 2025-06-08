@@ -480,8 +480,10 @@ spy_ideas = {
 	}
 	
 	claim_fabrication = {
+		claim_duration = 0.25
 		can_claim_states = yes
-		can_transfer_vassal_wargoal = yes
+		no_claim_cost_increasement = yes
+		#can_transfer_vassal_wargoal = yes
 	}
 
 	state_propaganda = {
@@ -506,11 +508,12 @@ spy_ideas = {
 	privateers = {
 		capture_ship_chance = 0.25
 		privateer_efficiency = 0.33
+		movement_speed_in_fleet_modifier = 1
 	}
 	
 	blackmailing = {
-		global_rebel_suppression_efficiency = 0.33
-		harsh_treatment_cost = -0.25
+		war_exhaustion = -0.05
+		war_exhaustion_cost = -0.15
 		#monthly_favor_modifier = 0.33
 		#accept_vassalization_reasons = 15
 		num_of_pronoiars = 1
