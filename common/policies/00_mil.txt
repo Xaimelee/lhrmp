@@ -881,7 +881,7 @@ guerilla_warfare = {
 	}	
 	
 	hostile_attrition = 1
-	shock_damage = 0.05
+	shock_damage = 0.1 #0.05
 	
 	effect = {}
 	removed_effect = {}
