@@ -247,7 +247,7 @@ the_royal_commission_act = {
 	}
 }
 
-edict_of_resistance = {
+public_welfare_act = {
 	monarch_power = ADM
 
 	potential = {
@@ -291,7 +291,7 @@ edict_of_resistance = {
 
 }
 
-public_welfare_act = {
+administration_of_sacred_land_policy = {
 	monarch_power = ADM
 
 
@@ -1581,7 +1581,7 @@ church_sponsored_guilds = {
 	}
 }
 
-policy_of_calculate_delay = {
+esprit_de_corps_policy = {
 	monarch_power = ADM
 	
 	potential = {
@@ -1717,7 +1717,7 @@ calming_the_tides_policy = {
 	}
 }
 
-esprit_de_corps_policy = { 
+policy_of_calculate_delay = { 
 	monarch_power = ADM
 	
 	potential = {
@@ -1926,7 +1926,7 @@ ora_et_labora_policy = {
 	}
 }
 
-administration_of_sacred_land_policy = {
+edict_of_resistance = {
 	monarch_power = ADM
 	
 	potential = {
