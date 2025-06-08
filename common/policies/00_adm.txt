@@ -578,7 +578,16 @@ the_witchcraft_act = {
 	}
 	
 	global_unrest = -1
-	global_missionary_strength = 0.01
+	papal_influence = 1
+	devotion = 0.1
+	monthly_fervor_increase = 0.1
+	church_power_modifier = 0.1
+	monthly_piety_accelerator = 0.001
+	yearly_karma_decay = 0.1
+	yearly_doom_reduction = 1
+	yearly_authority = 0.15
+	yearly_patriarch_authority = 0.005
+	#global_missionary_strength = 0.01
 
 	effect = {}
 	removed_effect = {}
