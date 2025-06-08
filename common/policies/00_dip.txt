@@ -1913,7 +1913,8 @@ diplomatic_arms_act = {
 	}
 	
 	province_warscore_cost = -0.1
-	diplomatic_upkeep = 2
+	rival_change_cost = -0.25
+	#diplomatic_upkeep = 2
 	
 	effect = {}
 	removed_effect = {}
