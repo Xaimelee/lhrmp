@@ -2258,7 +2258,9 @@ humanitarian_administration_act = {
 		full_idea_group = humanist_ideas 
 	}
 	
-	num_accepted_cultures = 2
+	#num_accepted_cultures = 2
+	global_unrest = -2
+	stability_cost_modifier = -0.25
 
 	effect = {}
 	removed_effect = {}
