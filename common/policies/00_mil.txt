@@ -1846,3 +1846,30 @@ hired_expeditions_act = {
 		factor = 1
 	}
 }
+
+## NEW
+
+hold_the_weather_gauge = {
+	monarch_power = MIL #DIP
+
+	potential = {
+		has_idea_group = maritime_ideas
+		has_idea_group = offensive_ideas
+	}
+	
+	allow = {
+		full_idea_group = maritime_ideas
+		full_idea_group = offensive_ideas
+	}
+	
+	#leader_naval_manuever = 1
+	#ship_durability = 0.05
+	infantry_power = 0.1
+	regiment_disembark_speed = 0.25
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+	}
+}
