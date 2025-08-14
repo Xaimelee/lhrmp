@@ -1810,7 +1810,7 @@ court_ideas = {
 	
 	long_echo = {
 		power_projection_from_insults = 1
-		diplomatic_reputation = 2 #1
+		#diplomatic_reputation = 1
 	}
 	recognize_hierarchy = {
 		all_estate_loyalty_equilibrium = 0.1
