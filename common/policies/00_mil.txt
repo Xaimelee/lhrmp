@@ -562,7 +562,7 @@ colonial_garrisons = {
 		full_idea_group = expansion_ideas
 	}
 
-	land_forcelimit_modifier = 0.1
+	land_forcelimit_modifier = 0.2 #0.1
 	global_colonial_growth = 10
 
 	effect = {}
