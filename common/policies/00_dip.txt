@@ -1985,7 +1985,8 @@ transportation_act = {
 		full_idea_group = exploration_ideas 
 	}
 	
-	privateer_efficiency = 0.5
+	#privateer_efficiency = 0.5
+	transport_cost = -0.33
 	transport_attrition = -0.5
 	
 	effect = {}
