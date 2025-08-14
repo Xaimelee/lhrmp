@@ -206,8 +206,7 @@ theocracy_gov_ideas = {
 	category = MIL
 	
 	bonus = {
-		#global_heretic_missionary_strength = 0.01
-		warscore_from_battles_modifier = 0.1
+		global_heretic_missionary_strength = 0.02 #0.01
 		church_loyalty_modifier = 0.1
 		brahmins_hindu_loyalty_modifier = 0.1
 		brahmins_muslim_loyalty_modifier = 0.1
@@ -216,18 +215,21 @@ theocracy_gov_ideas = {
 	trigger = {
 		has_government_attribute = enables_divine_idea_group
 	}
+	conviction_of_sin = {
+		global_unrest = -2
+	}
+	improved_body_armor = {
+		shock_damage_received = -0.1
+	}
 	servants_of_god = {
 		devotion = 1
 		legitimacy = 0.5
 		development_cost = -0.05
 	}
-	by_the_grace_of_god = {
-		fire_damage_received = -0.1
-	}
-	friends_in_high_places = {
-		leader_cost = -0.1
-		war_exhaustion_cost = -0.33
-	}
+	# friends_in_high_places = {
+	# 	leader_cost = -0.1
+	# 	war_exhaustion_cost = -0.33
+	# }
 	flesh_is_weak = {
 		morale_damage_received = -0.1
 	}
@@ -236,8 +238,8 @@ theocracy_gov_ideas = {
 		warscore_cost_vs_other_religion = -0.15
 		culture_conversion_cost = -0.1
 	}
-	conviction_of_sin = {
-		global_unrest = -2
+	by_the_grace_of_god = {
+		fire_damage_received = -0.1
 	}
 	martyrs = {
 		manpower_in_true_faith_provinces = 0.15
