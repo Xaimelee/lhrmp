@@ -881,7 +881,8 @@ guerilla_warfare = {
 		full_idea_group = quantity_ideas
 	}	
 	
-	hostile_attrition = 1
+	#hostile_attrition = 1
+	max_hostile_attrition = 1
 	shock_damage = 0.1 #0.05
 	
 	effect = {}
