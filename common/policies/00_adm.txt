@@ -2136,8 +2136,8 @@ head_of_state_act = {
 	}
 	
 	#no_stability_loss_on_monarch_death = yes  
-	yearly_innovativeness = 0.25
-	monarch_lifespan = 0.25
+	yearly_innovativeness = 0.2 #0.25
+	technology_cost = -0.05
 
 	effect = {}
 	removed_effect = {}
