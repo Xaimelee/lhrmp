@@ -1764,7 +1764,7 @@ the_smooth_integration_act = {
 	}
 	
 	diplomats = 1
-	diplomatic_reputation = 1 
+	diplomatic_reputation = 2 #1
 	#years_to_integrate_personal_union = -10
 	can_chain_claim = yes
 
