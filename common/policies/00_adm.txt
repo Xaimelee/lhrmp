@@ -143,7 +143,8 @@ agricultural_cultivations = {
 	}		
 	
 	land_maintenance_modifier = -0.05
-	land_forcelimit_modifier = 0.1
+	development_cost = -0.1 
+	#land_forcelimit_modifier = 0.1
 
 	effect = {}
 	removed_effect = {}
