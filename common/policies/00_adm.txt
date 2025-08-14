@@ -2400,3 +2400,28 @@ mercenary_registration_act = {
 		factor = 1
 	}
 }
+
+# NEW
+
+record_keeping_act = {
+	monarch_power = ADM #DIP
+	potential = {
+		has_idea_group = administrative_ideas
+		has_idea_group = diplomatic_ideas
+	}
+	
+	allow = {
+		full_idea_group = administrative_ideas
+		full_idea_group = diplomatic_ideas
+	}
+
+	#diplomats = 1
+	global_autonomy = -0.05
+	all_power_cost = -0.025
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 0.6
+	}
+}
