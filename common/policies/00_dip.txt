@@ -1356,16 +1356,19 @@ letters_of_marque = {
 	
 	potential = {
 		has_idea_group = offensive_ideas
-		has_idea_group = exploration_ideas
+		has_idea_group = spy_ideas
+		#has_idea_group = exploration_ideas
 	}
 	
 	allow = {
 		full_idea_group = offensive_ideas
-		full_idea_group = exploration_ideas
+		full_idea_group = spy_ideas
+		#full_idea_group = exploration_ideas
 	}
 	
 	privateer_efficiency = 0.5
-	capture_ship_chance = 0.25
+	light_ship_cost = -0.15
+	#capture_ship_chance = 0.25
 
 	
 	effect = {}
@@ -1627,13 +1630,13 @@ indirect_approach_policy = {
 	potential = {
 		#has_idea_group = indigenous_ideas
 		has_idea_group = offensive_ideas
-		has_idea_group = spy_ideas
+		has_idea_group = exploration_ideas
 	}
 	
 	allow = {
 		#full_idea_group = indigenous_ideas
 		full_idea_group = offensive_ideas
-		full_idea_group = spy_ideas
+		full_idea_group = exploration_ideas
 	}
 	
 	#movement_speed = 0.1
