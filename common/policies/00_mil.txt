@@ -126,7 +126,7 @@ the_liquor_act = {
 	}	
 	
 	recover_army_morale_speed = 0.15
-	reinforce_speed = 0.15
+	reinforce_speed = 0.25 #0.15
 
 	effect = {}
 	removed_effect = {}
