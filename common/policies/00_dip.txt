@@ -1624,7 +1624,7 @@ appeal_to_old_powers_policy = {
 	}
 }
 
-indirect_approach_policy = {
+hold_the_weather_gauge = {
 	monarch_power = DIP
 	
 	potential = {
@@ -1640,8 +1640,8 @@ indirect_approach_policy = {
 	}
 	
 	#movement_speed = 0.1
-	spy_offence = 0.2
-	land_attrition = -0.1
+	leader_naval_manuever = 1
+	ship_durability = 0.05
 
 	effect = {}
 	removed_effect = {}

@@ -1849,7 +1849,8 @@ hired_expeditions_act = {
 
 ## NEW
 
-hold_the_weather_gauge = {
+#hold_the_weather_gauge
+indirect_approach_policy = {
 	monarch_power = MIL #DIP
 
 	potential = {
