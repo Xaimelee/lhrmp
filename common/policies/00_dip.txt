@@ -870,7 +870,7 @@ the_foreign_aid_act = {
 	}	
 	
 	diplomatic_upkeep = 1
-	manpower_in_accepted_culture_provinces = 0.1
+	reduced_liberty_desire = 15
 	#diplomatic_reputation = 1
 	
 	effect = {}
