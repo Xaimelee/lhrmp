@@ -325,7 +325,7 @@ innovativeness_ideas = {
 		innovativeness_gain = 0.5
 	}
 	scientific_revolution = {
-		technology_cost = -0.1
+		technology_cost = -0.05 #-0.1
 		embracement_cost = -0.1
 	}
 	dynamic_court = {
