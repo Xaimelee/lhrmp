@@ -1886,8 +1886,7 @@ centralization_power_act = {
 		full_idea_group = court_ideas 
 	}
 	
-	#max_absolutism = 10 
-	centralize_state_cost = -0.25
+	max_absolutism = 10 
 	yearly_corruption = -0.1
 
 	effect = {}
