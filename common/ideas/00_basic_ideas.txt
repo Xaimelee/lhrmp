@@ -1000,7 +1000,9 @@ exploration_ideas = {
  		envoy_travel_time = -0.20
  	}
 	free_colonies = {
-		colonist_placement_chance = 0.1
+		#colonist_placement_chance = 0.1
+		colonists = 1
+		effect = { remove_temporary_colonist = yes }
 	}
 	global_empire = {
 		naval_forcelimit_modifier = 0.25
