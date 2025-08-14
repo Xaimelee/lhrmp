@@ -1797,7 +1797,7 @@ court_ideas = {
 
 	bonus = {
 		yearly_absolutism = 0.5
-		legitimacy = 0.5 
+		legitimacy = 1 #0.5
 		republican_tradition = 0.2
 		devotion = 0.5 
 		horde_unity = 0.5
@@ -1805,11 +1805,12 @@ court_ideas = {
 		imperial_mandate = 0.1
 		imperial_authority = 0.05
 		monthly_cultural_unity = 0.5
+		max_absolutism = 5
 	}
 	
 	long_echo = {
 		power_projection_from_insults = 1
-		diplomatic_reputation = 1
+		diplomatic_reputation = 2 #1
 	}
 	recognize_hierarchy = {
 		all_estate_loyalty_equilibrium = 0.1
