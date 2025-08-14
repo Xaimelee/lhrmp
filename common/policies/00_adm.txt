@@ -2159,8 +2159,9 @@ zealous_court_act = {
 	}
 	
 	#warscore_cost_vs_other_religion = -0.05
-	same_religion_advisor_cost = -0.1
-	tolerance_own = 1 
+	global_religious_conversion_resistance = 0.5
+	same_religion_advisor_cost = -0.15 #-0.1
+	#tolerance_own = 1 
 
 	effect = {}
 	removed_effect = {}
