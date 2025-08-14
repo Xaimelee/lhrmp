@@ -476,7 +476,7 @@ spy_ideas = {
 
 	bonus = {
 		rebel_support_efficiency = 1
-		spy_action_cost_modifier = -0.2
+		spy_action_cost_modifier = -0.25 #-0.2
 	}
 	
 	claim_fabrication = {
@@ -507,7 +507,7 @@ spy_ideas = {
 	
 	privateers = {
 		capture_ship_chance = 0.25
-		privateer_efficiency = 0.33
+		privateer_efficiency = 0.25 #0.33
 		movement_speed_in_fleet_modifier = 1
 	}
 	
