@@ -783,7 +783,7 @@ the_preparation_act = {
 		full_idea_group = offensive_ideas
 	}	
 	
-	land_attrition = -0.25
+	land_attrition = -0.33 #-0.25
 	war_exhaustion = -0.05
 	
 	effect = {}
