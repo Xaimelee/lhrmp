@@ -1372,7 +1372,7 @@ quantity_ideas = {
 		global_regiment_cost = -0.1
 	}
 	camp_followers = {
-		global_supply_limit_modifier = 0.33
+		global_supply_limit_modifier = 0.5 #0.33
 	}
 	reinforcement_drafts = {
 		reinforce_cost_modifier = -0.33
