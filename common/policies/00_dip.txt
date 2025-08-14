@@ -916,7 +916,8 @@ terms_of_surrender_statute = {
 		full_idea_group = diplomatic_ideas
 	}	
 	
-	capture_ship_chance = 0.33
+	#capture_ship_chance = 0.33
+	navy_tradition = 1
 
 	
 	effect = {}
