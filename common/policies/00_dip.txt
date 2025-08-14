@@ -1056,8 +1056,8 @@ the_cooperation_act = {
 	
 	#caravan_power = 0.33
 	#merchants = 1
-	vassal_naval_forcelimit_bonus = 0.5
-	vassal_sailors_bonus = 0.25
+	global_sailors_modifier = 0.2
+	vassal_naval_forcelimit_bonus = 1
 	
 	effect = {}
 	removed_effect = {}
