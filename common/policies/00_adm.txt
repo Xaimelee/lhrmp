@@ -263,8 +263,9 @@ public_welfare_act = {
 		#full_idea_group = religious_ideas
 	}
 
-	global_tax_income = 48
+	#global_tax_income = 48
 	global_unrest = -1
+	build_cost = -0.1
 	#hostile_attrition = 1
 
 	effect = {}
