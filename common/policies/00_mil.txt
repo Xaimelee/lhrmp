@@ -1267,6 +1267,7 @@ wielders_of_the_flaming_sword_policy = {
 	}
 
 	land_morale = 0.1
+	war_exhaustion_cost = -0.25
 	
 	effect = {}
 	removed_effect = {}
