@@ -4160,7 +4160,7 @@ SWI_ideas = {
 	
 	swiss_mercenaries = {
 		mercenary_discipline = 0.05
-		mercenary_manpower = 0.5
+		#mercenary_manpower = 0.5
 	}
 	swiss_tolerance = {
 		tolerance_heretic = 2
