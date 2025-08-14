@@ -1537,7 +1537,8 @@ bolstered_defence_act = {
 		full_idea_group = defensive_ideas 
 	}
 	
-	hostile_attrition = 1 
+	#hostile_attrition = 1 
+	max_hostile_attrition = 1
 	garrison_size = 0.25
 
 	effect = {}
