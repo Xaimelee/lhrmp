@@ -642,7 +642,8 @@ commercial_embassies = {
 	}
 	
 	global_trade_power = 0.1
-	diplomatic_reputation = 1
+	trade_efficiency = 0.1
+	#diplomatic_reputation = 1
 
 	effect = {}
 	removed_effect = {}
