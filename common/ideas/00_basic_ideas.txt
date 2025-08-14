@@ -1192,7 +1192,8 @@ maritime_ideas = {
 	}
 	naval_fighting_instruction = {
 		blockade_efficiency = 0.5
-		privateer_efficiency = 0.25
+		#privateer_efficiency = 0.25
+		siege_blockade_progress = 2
 	}
 
 	ai_will_do = {
