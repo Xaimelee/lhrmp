@@ -96,7 +96,7 @@ the_mining_act = {
 	}
 	
 	leader_land_fire = 1
-	fire_damage = 0.05
+	fire_damage = 0.1 #0.05
 	
 	effect = {}
 	removed_effect = {}
