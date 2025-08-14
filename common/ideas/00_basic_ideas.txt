@@ -428,7 +428,6 @@ religious_ideas = {
 	religious_tradition = {
 		manpower_in_own_culture_provinces = 0.1
 		reverse_relation_with_same_religion = 10
-		global_religious_conversion_resistance = 0.5
 	}
 
 	ai_will_do = {
