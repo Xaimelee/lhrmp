@@ -1734,7 +1734,7 @@ naval_ideas = {
 	boarding_parties = {
 		leader_naval_shock = 1
 		landing_penalty = -1
-		regiment_disembark_speed = -0.25
+		regiment_disembark_speed = 0.25
 	}
 	improved_rams = {
 		galley_power = 0.2 #0.25
