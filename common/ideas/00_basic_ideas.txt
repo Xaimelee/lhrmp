@@ -1448,16 +1448,16 @@ expansion_ideas = {
 	}
 	factories = {
 		trade_company_governing_cost = -0.1
-		trade_company_investment_cost = -0.1
+		trade_company_investment_cost = -0.2 #-0.1
 	}
 	additional_diplomats = {
 		diplomats = 1
 		reduced_liberty_desire_on_other_continent = 5
 	}
 	general_colonization_law  = {
-		colonists = 1
-		colonist_placement_chance = 0.05
-		effect = { remove_temporary_colonist = yes }
+		#colonists = 1
+		colonist_placement_chance = 0.1 #0.05
+		#effect = { remove_temporary_colonist = yes }
 	}
 	competetive_merchants  = {
 		global_trade_power = 0.2
