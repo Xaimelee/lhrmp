@@ -722,7 +722,7 @@ the_loyalty_act = {
 	}
 	
 	global_autonomy = -0.05
-	global_rebel_suppression_efficiency = 0.5
+	global_rebel_suppression_efficiency = 1
 	#fabricate_claims_cost = -0.25
 
 	effect = {}
