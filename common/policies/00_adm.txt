@@ -1777,7 +1777,7 @@ otto_per_mille = {
 		full_idea_group = theocracy_gov_ideas
 	}
 	
-	core_creation = -0.05
+	core_creation = -0.15 #-0.05
 	years_of_nationalism = -5
 	
 	effect = {}
