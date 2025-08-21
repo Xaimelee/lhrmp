@@ -1817,8 +1817,8 @@ religious_spread_policy = {
 		full_idea_group = theocracy_gov_ideas
 	}
 	
-	global_missionary_strength = 0.01
-	tolerance_own = 1 
+	global_missionary_strength = 0.02 #0.01
+	tolerance_own = 2 #1
 	
 	effect = {}
 	removed_effect = {}
