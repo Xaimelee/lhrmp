@@ -1526,8 +1526,8 @@ one_and_true = {
 		full_idea_group = influence_ideas
 	}
 	
-	reduced_liberty_desire = 10
-	global_missionary_strength = 0.01
+	reduced_liberty_desire = 15 #10
+	global_missionary_strength = 0.02 #0.01
 
 	effect = {}
 	removed_effect = {}
