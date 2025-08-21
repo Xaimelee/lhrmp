@@ -1239,7 +1239,7 @@ omne_datum_optimum_policy = {
 		full_idea_group = administrative_ideas
 	}
 
-	manpower_in_true_faith_provinces = 0.15
+	manpower_in_true_faith_provinces = 0.2 #0.15
 	recover_army_morale_speed = 0.1
 	
 	effect = {}
