@@ -1006,7 +1006,8 @@ the_liberation_act = {
 		full_idea_group = quantity_ideas
 	}	
 	
-	global_unrest = -1
+	#global_unrest = -1
+	manpower_in_accepted_culture_provinces = 0.15
 	years_of_nationalism = -5
 	
 	effect = {}
